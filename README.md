@@ -22,3 +22,6 @@ Despliegue en Render: Configurar y subir la aplicación para que sea accesible p
 **Resultados Esperados:**
 Aplicación web interactiva para explorar datos de ventas en USA.
 Visualizaciones claras que faciliten la toma de decisiones.
+
+**Liga para RENDER**
+https://venta-de-autos-usa.onrender.com/
